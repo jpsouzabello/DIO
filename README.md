@@ -1,6 +1,6 @@
 # DESAFIO-HTML-DIO 
 
--Desafio proposto pelo curso em que estava participando. Onde o professor pediu que eu desenvolvesse uma página HTML, e explica-se qual o uso das tag HTML mostradas no curso, usando tags HTML. 
+-Desafio proposto pelo curso em que estava participando. Onde o professor pediu que eu desenvolvesse uma página HTML, e explica-se qual o uso das tag HTML mostradas no curso.
 
 -Assim, fui capaz de utilizar as tags explicadas na sala de aula, mostrando em exemplos ou na própria página.
 
