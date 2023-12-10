@@ -4,6 +4,7 @@ Então, criei um site sobre uma clínica com 4 páginas separadas em:
 - sobre (uma descrição mais detalhada e ampla);
 - horário de atendimento (que contém uma tabela com os serviços e seus respectivos horários);
 - informações de contato (nessa inseri links que redireciona para o instagram, facebook e whatssap da clínica; além disso inseri um iframe com a localização exata da clínica; e por fim coloquei um formuário com os campos: nome, idade, email, assunto com opções selecionadas, e mensagem com uma caixa de texto, além de adicionar botões para submeter e limpar o formulário)
+
 Além disso haviam 4 campos padrões nessas páginas:
 - header (onde coloquei imagens ilustrativas e diferentes para cada página);
 - menu (onde coloquei links de navegação para navegar entre as páginas);
