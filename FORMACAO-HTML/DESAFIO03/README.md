@@ -4,7 +4,7 @@ Projeto de HTML: "Wikipédia" sobre Maceió
 
 Sobre o assunto escolhido
 
--Eu escolhi fazer uma wikipédia sobre uma cidade, porque eu acho que é um tema interessante e que tem muitas informações para explorar. A cidade que eu escolhi foi Maceió, a capital de Alagoas, no Brasil.
+-Decide fazer sobre Maceió.
 
 Sobre a estrutura do site
 
