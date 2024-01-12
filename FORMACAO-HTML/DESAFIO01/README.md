@@ -8,7 +8,7 @@
 
 -Depois, expliquei de forma teórica, qual o uso das tags no HTML.
 
--Após isso tive a ideia de usar as próprias tags para explicar o uso delas em exemplos visuais, usando elas no código para mostrar como ficaria dentro da página web, caso a tag fosse utilizada (as tags <tittle> e <p> eu não consegui pensar em uma forma de explicar e mostrar visualmente, usando o código, então eu usei imgs e atribui links de imagens delas da internet com exemplos visuais de ambas as tags)
+-Após isso tive a ideia de usar as próprias tags para explicar o uso delas em exemplos visuais, usando elas no código para mostrar como ficaria dentro da página web, caso a tag fosse utilizada (as tags title e p eu não consegui pensar em uma forma de explicar e mostrar visualmente, usando o código, então eu usei imgs e atribui links de imagens delas da internet com exemplos visuais de ambas as tags)
 
 -Além de mostrar como as tags aparecem pro usuário, também quis mostrar exemplos em formas de código na página.
 
