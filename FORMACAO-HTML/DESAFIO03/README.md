@@ -1,4 +1,4 @@
-Projeto de HTML: "Wikipédia" sobre Maceió:
+Desafio de HTML: "Wikipédia" sobre Maceió:
 
 -Este projeto é um desafio da formação de HTML da DIO. O objetivo era treinar a estrutura do site, e também aplicar conhecimentos sobre semântica e acessibilidade.
 
