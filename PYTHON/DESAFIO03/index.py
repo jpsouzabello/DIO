@@ -38,7 +38,7 @@ class ContaCorrente(Conta):
     def __init__(self, saldo, numero, agencia, cliente, limite_valor_saque, limite_saques):
         super().__init__(saldo, numero, agencia, cliente)
         self.limite_valor_saque = limite_valor_saque
-        self.limite_saques = limite_saques(3)
+        self.limite_saques = limite_saques
         self.saques_realizados = 0
 
     def sacar(self, valor_saque):
